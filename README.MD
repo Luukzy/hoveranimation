@@ -1,0 +1,1 @@
+### <-- Animação básica utilizando a pseudo-classe :hover --> ###
